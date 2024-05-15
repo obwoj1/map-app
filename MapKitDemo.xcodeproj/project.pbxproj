@@ -14,6 +14,7 @@
 		25A225162B8EC1BD0073494F /* MapKitDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A225152B8EC1BD0073494F /* MapKitDemoTests.swift */; };
 		25A225202B8EC1BD0073494F /* MapKitDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A2251F2B8EC1BD0073494F /* MapKitDemoUITests.swift */; };
 		25A225222B8EC1BD0073494F /* MapKitDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A225212B8EC1BD0073494F /* MapKitDemoUITestsLaunchTests.swift */; };
+		25A2252F2B8EC7D40073494F /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A2252E2B8EC7D40073494F /* SplashScreenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		25A2251B2B8EC1BD0073494F /* MapKitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MapKitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		25A2251F2B8EC1BD0073494F /* MapKitDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapKitDemoUITests.swift; sourceTree = "<group>"; };
 		25A225212B8EC1BD0073494F /* MapKitDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapKitDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		25A2252E2B8EC7D40073494F /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				25A225042B8EC1BC0073494F /* MapKitDemoApp.swift */,
 				25A225062B8EC1BC0073494F /* ContentView.swift */,
+				25A2252E2B8EC7D40073494F /* SplashScreenView.swift */,
 				25A225082B8EC1BD0073494F /* Assets.xcassets */,
 				25A2250A2B8EC1BD0073494F /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				25A225072B8EC1BC0073494F /* ContentView.swift in Sources */,
 				25A225052B8EC1BC0073494F /* MapKitDemoApp.swift in Sources */,
+				25A2252F2B8EC7D40073494F /* SplashScreenView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
